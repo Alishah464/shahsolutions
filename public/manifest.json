@@ -1,0 +1,13 @@
+{
+  "name": "Shah Solutions — Premium IT Services",
+  "short_name": "Shah Solutions",
+  "description": "Expert IT services: SEO, GEO, Web & App Development, Digital Marketing and Cloud Solutions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050510",
+  "theme_color": "#7C3AED",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
